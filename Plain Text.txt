@@ -1,0 +1,4 @@
+directive.as
+symbol_exists.as
+invalid_line.as
+symbol_not_exists.as
